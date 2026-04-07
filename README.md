@@ -1,0 +1,1 @@
+“An AI résumé and cover‑letter generator is a tool that uses artificial intelligence to create tailored résumés and cover letters, matching your skills to job descriptions, improving wording, formatting, and personalization in seconds while reducing manual editing effort.”
